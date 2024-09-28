@@ -38,7 +38,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/shelfsight.git
+[git clone https://github.com/yourusername/shelfsight.git](https://github.com/ShelfSight/ShelfSight.git)
 cd shelfsight
 Install Dependencies: Install the Python and Node.js dependencies:
 
